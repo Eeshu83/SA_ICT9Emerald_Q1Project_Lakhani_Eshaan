@@ -1,0 +1,29 @@
+body {
+	background-color:antiquewhite;
+	font-family: sans-serif;
+}
+th{  background-color:#e8d1c5; letter-spacing: 3px; font: serif;
+ }
+ td{  font-size: 30px; color:#black; background-color:#e8d1c5; font: bolder;
+
+ }
+
+
+	
+}
+
+table { border-color:black; background-color:#000000 
+}
+tr{font-size: 20px; background-color: #CF9FFF; letter-spacing: 3px; 
+	
+}
+
+
+h1{
+	font-size: 50px;
+}
+
+
+li{
+	font-size: 25px;
+}
